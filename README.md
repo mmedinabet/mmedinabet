@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Manage Security Risks</b>
-  - Conducting a Security Audit (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Conducting a Security Audit (https://github.com/mmedinabet/Conduct-a-security-audit/blob/main/README.md)
 - <b> 
 
 
