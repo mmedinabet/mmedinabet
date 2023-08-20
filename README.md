@@ -1,7 +1,7 @@
 <h1>Hi, I'm Maria! 
 <h2>I am driven and passionate about safeguarding people’s information. Through dedicated self-study, online courses, and hands-on projects, I have proactively acquired foundational knowledge in cybersecurity concepts. Eager to learn and adapt, I am excited to leverage my determination and enthusiasm to swiftly become a valuable asset in the realm of cybersecurity.</h2>
 
-<h2> Education </h2>
+<h2>📚Education </h2>
 Bachelor of Interdisciplinary Studies 
 
 
