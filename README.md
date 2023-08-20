@@ -3,10 +3,12 @@
 
 <h2> Education </h2>
 Bachelor of Interdisciplinary Studies 
--Business and Computer Science.
--Liberty University
 
-Lynchburg, VA. 
+
+
+Emphasis:Business and Computer Science
+
+Liberty University. Lynchburg, VA. 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Manage Security Risks</b>
