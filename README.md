@@ -6,7 +6,7 @@ Bachelor of Interdisciplinary Studies
 
 
 
-Emphasis:Business and Computer Science
+Emphasis: Business and Computer Science
 
 Liberty University. Lynchburg, VA. 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
