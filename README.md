@@ -8,7 +8,9 @@
   - [Conducting a Security Audit](https://github.com/mmedinabet/Conduct-a-security-audit/blob/main/README.md)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/mmedinabet/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/blob/main/README.md)
 
-- <b> 
+- <b> Operating Systems</b>
+- [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
+- 
 
 <h2>📚Education </h2>
 Bachelor of Interdisciplinary Studies 
