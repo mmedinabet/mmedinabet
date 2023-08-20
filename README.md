@@ -3,8 +3,8 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Conducting a security audit</b>
-  - home lab ](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Manage Security Risks</b>
+  - Conducting a Security Audit (https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> 
 
 
