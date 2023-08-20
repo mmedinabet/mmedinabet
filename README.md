@@ -9,7 +9,7 @@
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/mmedinabet/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/blob/main/README.md)
 
 - <b> Operating Systems</b>
-- [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
+  - [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
 - 
 
 <h2>📚Education </h2>
