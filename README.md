@@ -10,7 +10,9 @@
 
 - <b> Operating Systems</b>
   - [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
-- 
+- <b> Incident Detection and Response:</b>
+
+  - [Document an incident with an incident handler's journal](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)
 
 <h2>📚Education </h2>
 Bachelor of Interdisciplinary Studies 
