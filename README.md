@@ -14,9 +14,12 @@
 
   - [Document an incident with an incident handler's journal](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)
   - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
-  - 
-  - 
-  - 
+
+  <b> Automate tasks with Python </b>
+
+  
+  - [Update a file through a Python algorithm](https://github.com/mmedinabet/-Update-a-file-through-a-Python-algorithm/edit/main/README.md)
+  
 
 <h2>📚Education </h2>
 Bachelor of Interdisciplinary Studies 
