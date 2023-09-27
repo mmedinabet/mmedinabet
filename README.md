@@ -18,8 +18,8 @@
   <b> Automate tasks with Python </b>
 
   
-  - [Update a file through a Python algorithm]([https://github.com/mmedinabet/-Update-a-file-through-a-Python-algorithm#readme](https://github.com/mmedinabet/-Update-a-file-through-a-Python-algorithm/tree/main)
-
+  - [Update a file through a Python algorithm](https://github.com/mmedinabet/-Update-a-file-through-a-Python-algorithm/tree/main)
+    
 <h2>📚Education </h2>
 Bachelor of Interdisciplinary Studies 
 
