@@ -29,7 +29,7 @@ Emphasis: Business and Computer Science
 
 Liberty University. Lynchburg, VA.
 <h2>📄Certifications</h2>
-
+Google Cybersecurity Certificate
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/maria-elena-medina-betancourt-35409228a//
 
