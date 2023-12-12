@@ -13,6 +13,7 @@
 - <b> Incident Detection and Response:</b>
 
   - [Document an incident with an incident handler's journal](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)
+  
   - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
 
   <b> Automate tasks with Python </b>
@@ -38,7 +39,8 @@ Liberty University. Lynchburg, VA.
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ZGNSNQ6YYES7) 
 
 <h2> 🤳 Connect with me:</h2>
-https://www.linkedin.com/in/maria-elena-medina-betancourt-35409228a//
+
+- [Linkedin](www.linkedin.com/in/maria-elena-medina-betancourt-35409228a) 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
