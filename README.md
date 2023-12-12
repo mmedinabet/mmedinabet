@@ -22,7 +22,7 @@
 
   <b> Virtual Network Simulation
   
-  - [Virtual Network Simulation](https://github.com/mmedinabet/Virtual-network-simulation/blob/main/README.md)
+  - [Virtual Network Simulation](https://github.com/mmedinabet/Virtual-network-simulation/tree/main) 
  
   
 <h2>📚Education </h2>
