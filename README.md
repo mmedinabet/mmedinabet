@@ -19,7 +19,12 @@
 
   
   - [Update a file through a Python algorithm](https://github.com/mmedinabet/-Update-a-file-through-a-Python-algorithm/tree/main)
-    
+
+  <b> Virtual Network Simulation
+  
+  - [Virtual Network Simulation](https://github.com/mmedinabet/Virtual-network-simulation/blob/main/README.md)
+ 
+  
 <h2>📚Education </h2>
 Bachelor of Interdisciplinary Studies 
 
