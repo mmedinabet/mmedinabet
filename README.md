@@ -23,8 +23,8 @@
 
   <b> Virtual Network Simulation
   
-  - [Virtual Network Simulation](https://github.com/mmedinabet/Virtual-network-simulation/tree/main) 
- 
+  - [Virtual Network Simulation](https://github.com/mmedinabet/Virtual-network-simulation/tree/main)
+  - [Digital Transformation of a small bussiness](https://github.com/mmedinabet/Digital-Transformation-) 
   
 <h2>📚Education </h2>
 Bachelor of Interdisciplinary Studies 
