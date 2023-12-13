@@ -21,7 +21,7 @@
   
   - [Update a file through a Python algorithm](https://github.com/mmedinabet/-Update-a-file-through-a-Python-algorithm/tree/main)
 
-  <b> Virtual Network Simulation
+  <b> Networking and Cloud Computing
   
   - [Virtual Network Simulation](https://github.com/mmedinabet/Virtual-network-simulation/tree/main)
   - [Digital Transformation of a small bussiness](https://github.com/mmedinabet/Digital-Transformation-) 
