@@ -37,8 +37,8 @@ Liberty University. Lynchburg, VA.
 <h2>📄Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ZGNSNQ6YYES7)
-- Microsoft Cybersecurity Analyst Professional Certificate *In Process*
-- CompTIA Security + Certificate *In Process*
+- Microsoft Cybersecurity Analyst Professional Certificate     *In Progress*
+- CompTIA Security + Certificate    *In Progress*
 
 <h2> 🤳 Connect with me:</h2>
 
