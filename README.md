@@ -27,11 +27,7 @@
   - [Digital Transformation of a small bussiness](https://github.com/mmedinabet/Digital-Transformation-) 
   
 <h2>📚Education </h2>
-Bachelor of Interdisciplinary Studies 
-
-
-
-Emphasis: Business and Computer Science
+Bachelor of Interdisciplinary Studies: Business and Computer Science
 
 Liberty University. Lynchburg, VA.
 <h2>📄Certifications</h2>
