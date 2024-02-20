@@ -18,12 +18,12 @@
   - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
 
  - <b> Automate tasks with Python </b>
-  - [Update a file through a Python algorithm](https://github.com/mmedinabet/-Update-a-file-through-a-Python-algorithm/tree/main)
+   - [Update a file through a Python algorithm](https://github.com/mmedinabet/-Update-a-file-through-a-Python-algorithm/tree/main)
     
 
   - <b> Networking and Cloud Computing </b>
-   - [Virtual Network Simulation](https://github.com/mmedinabet/Virtual-network-simulation/tree/main)
-   - [Digital Transformation of a small bussiness](https://github.com/mmedinabet/Digital-Transformation-) 
+    - [Virtual Network Simulation](https://github.com/mmedinabet/Virtual-network-simulation/tree/main)
+    - [Digital Transformation of a small bussiness](https://github.com/mmedinabet/Digital-Transformation-) 
   
 <h2>📚Education </h2>
 Bachelor of Interdisciplinary Studies: Business and Computer Science
