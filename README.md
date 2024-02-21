@@ -38,7 +38,7 @@ Liberty University. Lynchburg, VA.
 
 <h2> 🤳 Connect with me:</h2>
 
-- [Linkedin](www.linkedin.com/in/maria-elena-medina-betancourt-35409228a) 
+- [Linkedin](www.linkedin.com/in/maria-medina-35409228a)
 
 <!--
 **mmedinabet/mmedinabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
