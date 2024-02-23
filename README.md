@@ -26,12 +26,14 @@
     - [Digital Transformation of a small bussiness](https://github.com/mmedinabet/Digital-Transformation-) 
   
 <h2>📚Education </h2>
-     - <h3> B.S Degree Interdisciplinary Studies: Business and Computer Science 
-  Liberty University. Lynchburg, VA. </h3>
+
+  - <b> B.S Degree Interdisciplinary Studies: Business and Computer Science
+    
+      Liberty University. Lynchburg, VA. </b>
   
-     - <h3> Associate of Arts (AA) degree 
-     
-  State College of Florida. Bradenton-Sarasota, FL </h3>
+  - <b> Associate of Arts (AA) degree
+    
+      State College of Florida. Bradenton-Sarasota, FL </b>
 
 <h2>📄Certifications</h2>
 
