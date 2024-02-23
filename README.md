@@ -31,7 +31,7 @@
     
       Liberty University. Lynchburg, VA. </b>
   
-  - <b> Associate of Arts (AA) degree
+  - <b> Associate of Arts (AA) Degree
     
       State College of Florida. Bradenton-Sarasota, FL </b>
 
