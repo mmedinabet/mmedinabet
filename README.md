@@ -26,9 +26,13 @@
     - [Digital Transformation of a small bussiness](https://github.com/mmedinabet/Digital-Transformation-) 
   
 <h2>📚Education </h2>
-Bachelor of Interdisciplinary Studies: Business and Computer Science
+     - <h3> B.S Degree Interdisciplinary Studies: Business and Computer Science 
+  Liberty University. Lynchburg, VA. </h3>
+  
+     - <h3> Associate of Arts (AA) degree 
+     
+  State College of Florida. Bradenton-Sarasota, FL </h3>
 
-Liberty University. Lynchburg, VA.
 <h2>📄Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ZGNSNQ6YYES7)
