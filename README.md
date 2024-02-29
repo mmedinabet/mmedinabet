@@ -5,8 +5,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Manage Security Risks</b>
-  - [Conducting a Security Audit](https://github.com/mmedinabet/Conduct-a-security-audit/blob/main/README.md)
-  - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/mmedinabet/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/blob/main/README.md)
+  - [Conducting a Security Audit](https://github.com/mmedinabet/Conduct-a-security-audit/tree/main)
+  - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/mmedinabet/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/tree/main)
 
 - <b> Operating Systems</b>
   - [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
@@ -15,10 +15,10 @@
 
   - [Document an incident with an incident handler's journal](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)
   
-  - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
+  - [Investigate a suspicious file hash](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions) 
 
  - <b> Automate tasks with Python </b>
-   - [Update a file through a Python algorithm](https://github.com/mmedinabet/-Update-a-file-through-a-Python-algorithm/tree/main)
+   - [Update a file through a Python algorithm](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/tree/main) 
     
 
   - <b> Networking and Cloud Computing </b>
