@@ -26,7 +26,7 @@
     - [Digital Transformation of a small bussiness](https://github.com/mmedinabet/Digital-Transformation-)
    
   - <b> Microsoft Azure </b>
-  - [Secure Identity and Access with Microsoft Entra](https://github.com/mmedinabet/Secure-Identity-and-Access-with-Microsoft-Entra-/tree/main)
+    - [Secure Identity and Access with Microsoft Entra](https://github.com/mmedinabet/Secure-Identity-and-Access-with-Microsoft-Entra-/tree/main)
   
 <h2>📚Education </h2>
 
