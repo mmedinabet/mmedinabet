@@ -43,7 +43,7 @@
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ZGNSNQ6YYES7)
 - [CompTIA Security + Certificate](https://www.credly.com/badges/8c5829b8-2ee6-49a6-9cad-07f83f91ed06/linked_in?t=s95og5)
 
-- Microsoft Cybersecurity Analyst Professional Certificate     (*In Progress*)
+
 
 
 <!--
