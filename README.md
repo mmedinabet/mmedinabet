@@ -20,13 +20,6 @@
  - <b> Automate tasks with Python </b>
    - [Update a file through a Python algorithm](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/tree/main) 
     
-
-  - <b> Networking and Cloud Computing </b>
-    - [Virtual Network Simulation](https://github.com/mmedinabet/Virtual-network-simulation/tree/main)
-    - [Digital Transformation of a small bussiness](https://github.com/mmedinabet/Digital-Transformation-)
-   
-  - <b> Microsoft Azure </b>
-    - [Secure Identity and Access with Microsoft Entra](https://github.com/mmedinabet/Secure-Identity-and-Access-with-Microsoft-Entra-/tree/main)
   - <b> TryHackMe Practicals </b>
      - [Firewall Configuration for Attack Mitigation: Firewall configuration](https://github.com/mmedinabet/SOC-practical-Firewall-/blob/main/README.md)
      - [Digital Forensics Investigation: Unraveling the Mystery of Gado's Kidnapping](https://github.com/mmedinabet/SOC-practical-Digital-forensics-/blob/main/README.md)
