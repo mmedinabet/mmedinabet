@@ -8,21 +8,18 @@
   - [Conducting a Security Audit](https://github.com/mmedinabet/Conduct-a-security-audit/tree/main)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/mmedinabet/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/tree/main)
 
-- <b> Operating Systems</b>
+- <b> Software Development Tools </b>
   - [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
-    
+  - 
+     [Update a file through a Python algorithm](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/tree/main) 
+
 - <b> Incident Detection and Response:</b>
 
   - [Document an incident with an incident handler's journal](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)
-  
   - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
+  - [Firewall Configuration for Attack Mitigation: Firewall configuration](https://github.com/mmedinabet/SOC-practical-Firewall-/blob/main/README.md)
+  - [Digital Forensics Investigation: Unraveling the Mystery of Gado's Kidnapping](https://github.com/mmedinabet/SOC-practical-Digital-forensics-/blob/main/README.md)
 
- - <b> Automate tasks with Python </b>
-   - [Update a file through a Python algorithm](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/tree/main) 
-    
-  - <b> TryHackMe Practicals </b>
-     - [Firewall Configuration for Attack Mitigation: Firewall configuration](https://github.com/mmedinabet/SOC-practical-Firewall-/blob/main/README.md)
-     - [Digital Forensics Investigation: Unraveling the Mystery of Gado's Kidnapping](https://github.com/mmedinabet/SOC-practical-Digital-forensics-/blob/main/README.md)
        
 <h2>📚Education </h2>
 
