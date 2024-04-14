@@ -19,8 +19,9 @@
   - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
   - [Firewall Configuration for Attack Mitigation: Firewall configuration](https://github.com/mmedinabet/SOC-practical-Firewall-/blob/main/README.md)
   - [Digital Forensics Investigation: Unraveling the Mystery of Gado's Kidnapping](https://github.com/mmedinabet/SOC-practical-Digital-forensics-/blob/main/README.md)
+  - [SIEM Detection and Response: Junior Analyst Edition](https://github.com/mmedinabet/SOC-analyst-tier-1/blob/main/README.md)      
 
-       
+
 <h2>📚Education </h2>
 
   - <b> B.S Degree Interdisciplinary Studies: Business and Computer Science
