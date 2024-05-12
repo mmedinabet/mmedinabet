@@ -4,14 +4,15 @@
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
 - <b>Security Audit and Incident Response:</b>
   - [Conducting a Security Audit](https://github.com/mmedinabet/Conduct-a-security-audit/tree/main)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/mmedinabet/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/tree/main)
     
-   - Incident Detection and Response:
-     
-       - [Document an incident with an incident handler's journal](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)
-       - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
+
+- <b>Incident Detection and Response:
+   - [Document an incident with an incident handler's journal](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)
+   - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
     
 - <b> Software Development and Security </b>
   - [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
