@@ -13,7 +13,8 @@
 - <b>Incident Detection and Response:
    - [Document an incident with an incident handler's journal](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)
    - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
-    
+   - [Lab: Defending Against Live Attacks with Snort](https://github.com/mmedinabet/Snort-live-attacks-/blob/main/README.md)
+        
 - <b> Software Development and Security </b>
   - [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
   - [Update a file through a Python algorithm](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/tree/main) 
