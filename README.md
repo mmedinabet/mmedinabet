@@ -27,6 +27,7 @@
 
 - <b> Network Security and Traffic Analysis
   - [Defending Against Live Attacks with Snort](https://github.com/mmedinabet/Snort-live-attacks-/tree/main)
+  - [Investigating Traffic Data with Zeek](https://github.com/mmedinabet/Zeek-exercises/tree/main)
             
 
 
