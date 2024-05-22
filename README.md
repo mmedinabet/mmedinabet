@@ -25,11 +25,12 @@
 - <b> Security Information and Event Management (SIEM) </b>
   - [SIEM Detection and Response: Junior Analyst Edition](https://github.com/mmedinabet/SOC-analyst-tier-1/blob/main/README.md)
 
-- <b> Network Security and Traffic Analysis
+- <b> Network Security and Traffic Analysis </b>
   - [Defending Against Live Attacks with Snort](https://github.com/mmedinabet/Snort-live-attacks-/tree/main)
   - [Investigating Traffic Data with Zeek](https://github.com/mmedinabet/Zeek-exercises/tree/main)
-            
 
+ - <b> Phishing </b>
+   - [Comprehensive Email Phishing and Attachment Analysis for SOC Analysts](https://github.com/mmedinabet/Phishing-Labs-/blob/main/README.md)
 
 <h2>📚Education </h2>
 
