@@ -11,7 +11,7 @@
    - [Document an incident with an incident handler's journal](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)
    - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
   
-- <b> Software Development and Security </b>
+- <b> Software Development and Security: </b>
   - [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
   - [Update a file through a Python algorithm](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/tree/main) 
 
@@ -20,7 +20,7 @@
   - [Defending Against Live Attacks with Snort](https://github.com/mmedinabet/Snort-live-attacks-/tree/main)
   - [Investigating Traffic Data with Zeek](https://github.com/mmedinabet/Zeek-exercises/tree/main)
     
-- <b> Digital Forensics </b>
+- <b> Digital Forensics: </b>
   - [Digital Forensics Investigation: Unraveling the Mystery of Gado's Kidnapping](https://github.com/mmedinabet/SOC-practical-Digital-forensics-/blob/main/README.md)
     
 - <b> Security Information and Event Management (SIEM) and Phishing: </b>
