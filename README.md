@@ -8,9 +8,6 @@
 - <b>Security Audit and Incident Response:</b>
   - [Conducting a Security Audit](https://github.com/mmedinabet/Conduct-a-security-audit/tree/main)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/mmedinabet/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/tree/main)
-    
-
-- <b>Incident Detection and Response:
    - [Document an incident with an incident handler's journal](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)
    - [Investigate a suspicious file hash](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash)
   
@@ -18,19 +15,18 @@
   - [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
   - [Update a file through a Python algorithm](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/tree/main) 
 
-- <b> Firewall Configuration and Attack Mitigation </b>
+- <b> Firewall Configuration, Attack Mitigation, and Network Security: </b>
   - [Firewall Configuration for Attack Mitigation: Firewall configuration](https://github.com/mmedinabet/SOC-practical-Firewall-/blob/main/README.md)
-- <b> Digital Forensics </b>
-  - [Digital Forensics Investigation: Unraveling the Mystery of Gado's Kidnapping](https://github.com/mmedinabet/SOC-practical-Digital-forensics-/blob/main/README.md)
-- <b> Security Information and Event Management (SIEM) </b>
-  - [SIEM Detection and Response: Junior Analyst Edition](https://github.com/mmedinabet/SOC-analyst-tier-1/blob/main/README.md)
-
-- <b> Network Security and Traffic Analysis </b>
   - [Defending Against Live Attacks with Snort](https://github.com/mmedinabet/Snort-live-attacks-/tree/main)
   - [Investigating Traffic Data with Zeek](https://github.com/mmedinabet/Zeek-exercises/tree/main)
+    
+- <b> Digital Forensics </b>
+  - [Digital Forensics Investigation: Unraveling the Mystery of Gado's Kidnapping](https://github.com/mmedinabet/SOC-practical-Digital-forensics-/blob/main/README.md)
+    
+- <b> Security Information and Event Management (SIEM) and Phishing: </b>
+  - [SIEM Detection and Response: Junior Analyst Edition](https://github.com/mmedinabet/SOC-analyst-tier-1/blob/main/README.md)
+  - [Comprehensive Email Phishing and Attachment Analysis for SOC Analysts](https://github.com/mmedinabet/Phishing-Labs-/blob/main/README.md)
 
- - <b> Phishing </b>
-   - [Comprehensive Email Phishing and Attachment Analysis for SOC Analysts](https://github.com/mmedinabet/Phishing-Labs-/blob/main/README.md)
 
 <h2>📚Education </h2>
 
