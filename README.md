@@ -15,7 +15,7 @@
   - [Using Linux commands to manage file permissions](https://github.com/mmedinabet/Using-Linux-commands-to-manage-file-permissions)
   - [Update a file through a Python algorithm](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/tree/main) 
 
-- <b> Firewall Configuration, Attack Mitigation, and Network Security: </b>
+- <b> Network Security: </b>
   - [PacketTracer-Inbound Access Control List (ACL) Lab](https://github.com/mmedinabet/ACL-lab-/blob/main/README.md)
   - [Firewall Configuration for Attack Mitigation: Firewall configuration](https://github.com/mmedinabet/SOC-practical-Firewall-/blob/main/README.md)
   - [Defending Against Live Attacks with Snort](https://github.com/mmedinabet/Snort-live-attacks-/tree/main)
